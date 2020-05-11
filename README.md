@@ -11,7 +11,6 @@ HELLO
 BLOG: https://withhappy.github.io/
 
 ## comingsoon
-=======
 ## Index
 - jamie Cheon
 
@@ -20,10 +19,13 @@ BLOG: https://withhappy.github.io/
 
 
 
->>>>>>> 2f4a91380a8c1f6da26a19650d256664db29e7f6
+## Hello I'm JOY
 
+im joy!!
+im python developer~~!!
+# visitor
 
-<<<<<<< HEAD
-https://comingsoon941019.github.io/
-=======
->>>>>>> 2f4a91380a8c1f6da26a19650d256664db29e7f6
+## Index
+### juheoung
+`
+-blog : https://juheoung.github.io/
